@@ -9,10 +9,14 @@ The Android application that illustrates augmented reality whale. The surface de
 
 
 
-## Initial steps for working with 'AbdullaAttacks' game files are described below:
+## Initial steps for working with 'AR whale' application files are described below:
 ### Step 1
-     pip install -r requirements.txt
+     download .zip file
 ### Step 2
-     python AbdullaAttacks!!!.py
+     extract files to desired folder
+### Step 3
+     run all the .exe files in each folder in order to extract additional working files
+### Step 4
+     install Unity and open the folder containing files
      
-It is also possible to download an executable file from relase page or download AbdullaAttacks(executable).rar file in order to play the game.
+It is also possible to download an .apk file from relase page or download AR Whale(.apk).rar file in order to run application.
